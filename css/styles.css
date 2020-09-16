@@ -1,0 +1,181 @@
+body {
+  text-align: center;
+  /* background-color: #ffeadb; */
+  margin: 0;
+  /* font-family: verdana, sans-serif; */
+  font-family: 'Merriweather', serif;
+  font-size: 93%;
+  color: #40514E;
+  letter-spacing: 0.5px;
+  margin-bottom: 0;
+}
+
+h1 {
+font-family: 'Sacramento', cursive;
+/* font-size: 5.625rem; */
+font-size: 6.1rem;
+margin: 50px auto 0 auto;
+color: #aa4a30;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+color: #aa4a30;
+font-weight: normal;
+}
+
+.awebdeveloper {
+font-family: 'Montserrat', sans-serif;
+font-size: 1.5rem;
+color: #aa4a30;
+font-weight: normal;
+}
+
+h3 {
+color: #aa4a30;
+}
+
+.bottomh3 {
+  margin: 40px auto 40px auto;
+}
+
+a {
+color: #bd8d71;
+}
+
+a:hover {
+color: #aa4a30;
+}
+
+p{
+  line-height: 2;
+}
+
+.mountain {
+  width: 410px;
+}
+.agnesprofilepic {
+  border-radius: 50%;
+  width: 300px;
+  margin-top: 100px;
+}
+
+.laptop-img {
+  width: 25%;
+  float: left;
+  margin-right: 40px;
+}
+
+.unicorn-img {
+  width: 25%;
+  float: right;
+  margin-left: 40px;
+}
+
+.writer-img {
+  width: 25%;
+  float: left;
+  margin-right: 40px;
+}
+
+
+.thetopcontainer {
+  /* margin: auto;
+  width: 50%; */
+  position: relative;
+  padding-top: 100px;
+  background-color: #ffeadb;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 290px;
+  top: 50px;
+  width: 150px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 230px;
+  bottom: 310px;
+  width: 150px;
+
+}
+.description {
+width: 28%;
+margin: auto;
+line-height: 2;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.line {
+    background-image: url(http://seanhalpin.io/assets/img/ui/line-bg@2x.png);
+    background-size: auto 6px;
+    height: 6px;
+    width: 70px;
+    margin: 70px auto 70px auto;
+}
+
+.bottom-container {
+  background-color: #ffeadb;
+  padding: 50px 0 20px 0;
+  color: #40514E;
+  margin-bottom: 0;
+
+}
+
+.contactdescription {
+  width: 40%;
+  margin: auto;
+}
+
+.footer-link {
+  padding: 0 20px 0 10px;
+  text-decoration: none;
+}
+
+.cc {
+  margin-top: 30px;
+  color: #40514E;
+  font-size: 0.6rem;
+  letter-spacing: 2px;
+  margin-bottom: 0;
+
+}
+
+.BUTTON_CONTACT {
+	background:linear-gradient(to bottom, #ffeadb 5%, #f7c5a8 100%);
+	background-color:#ffeadb;
+	border-radius:15px;
+	display:inline-block;
+	cursor:pointer;
+	color:#aa4a30;
+	font-family:Arial;
+	font-size:18px;
+	padding:16px 31px;
+	text-decoration:none;
+  margin: 50px auto 50px auto;
+}
+.BUTTON_CONTACT:hover {
+	background:linear-gradient(to bottom, #f7c5a8 5%, #ffeadb 100%);
+	background-color:#f7c5a8;
+}
+.BUTTON_CONTACT:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+/* color palette - https://colorhunt.co/palette/196227
+http://seanhalpin.io/
+
+16px=100%=1em*/
